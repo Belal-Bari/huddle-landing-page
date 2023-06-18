@@ -31,19 +31,21 @@
     background: transparent;
     padding-left: 50px;
     padding-right: 50px;
-    
+    Display: flex;
+    justify-content: space-between;
 }
 .left{
     background: transparent;
 }
 .leftImg{
     background: transparent;
+    min-width: 400px;
 }
 .right{
     background: transparent;
     position:relative;
-    left: 30px;
-    top: 30px;
+    padding-top: 30px;
+    padding-left: 30px;
 }
 h1{
     padding-bottom: 20px;
