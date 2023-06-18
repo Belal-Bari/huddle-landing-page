@@ -113,7 +113,7 @@ p{
 .attribution a { 
     color: rgb(235, 154, 235); 
 }
-@media (max-width: 375px){
+@media (max-width: 480px){
     .content{
         padding: 0px;
     }
