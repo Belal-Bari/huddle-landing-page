@@ -42,7 +42,7 @@
 }
 .leftImg{
     background: transparent;
-    min-width: 280px;
+    min-width: 300px;
 }
 .right{
     background: transparent;
@@ -113,13 +113,17 @@ p{
 .attribution a { 
     color: rgb(235, 154, 235); 
 }
-@media (max-width: 480px){
+@media (max-width: 500px){
     .content{
-        padding: 0px;
+        padding: 0px 50px;
     }
     .round{
         position: relative;
-        left: 50px;
+        left: 100px;
+    }
+    .right{
+        margin-left: auto;
+        margin-right: auto;
     }
     .footer{
         text-align: center;
