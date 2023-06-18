@@ -111,6 +111,9 @@ p{
     color: rgb(235, 154, 235); 
 }
 @media (max-width: 375px){
+    .content{
+        padding: 0px;
+    }
     .round{
         position: relative;
         left: 100px;
