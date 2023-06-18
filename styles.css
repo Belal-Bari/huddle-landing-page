@@ -39,7 +39,7 @@
 }
 .leftImg{
     background: transparent;
-    min-width: 375px;
+    min-width: 350px;
 }
 .right{
     background: transparent;
@@ -110,7 +110,7 @@ p{
 .attribution a { 
     color: rgb(235, 154, 235); 
 }
-@media (max-width: 500px){
+@media (max-width: 375px){
     .round{
         position: relative;
         left: 100px;
